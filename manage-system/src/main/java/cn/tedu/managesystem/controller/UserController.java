@@ -1,11 +1,7 @@
 package cn.tedu.managesystem.controller;
 
-
-import cn.tedu.managesystem.pojo.dto.UserLoginDto;
 import cn.tedu.managesystem.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
